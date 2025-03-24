@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from "../../assets/logo.jpg";
 import { Button } from "../Button";
 
 import {
@@ -17,7 +16,7 @@ const Header = () => {
         <Brapper>
             <Container>
                 <Row>
-                    <img src={logo} alt='Logo da Dio' />
+                
                     <BuscarInputContainer>
                         <Input placeholder='Buscar...' />
                     </BuscarInputContainer>
