@@ -1,10 +1,7 @@
 import React from 'react'
 
 import {
-    IconContainer,
-    InputContainer,
-    InputText
-} from "./styles";
+    IconContainer, InputContainer, InputText } from "./styles";
 
  const Input = ({leftIcon, name, ...rest}) => {
   return (
@@ -15,4 +12,4 @@ import {
   )
 }
 
-export { Input }
+export { Input };
