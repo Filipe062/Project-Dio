@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Project-Dio/static/js/main.f1ebb8f8.js",
+    "static/media/bunner.jpg": "/Project-Dio/static/media/bunner.f6183baa30b4d2f84b9f.jpg",
+    "index.html": "/Project-Dio/index.html",
+    "main.f1ebb8f8.js.map": "/Project-Dio/static/js/main.f1ebb8f8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f1ebb8f8.js"
+  ]
+}
